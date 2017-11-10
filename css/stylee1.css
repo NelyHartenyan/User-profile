@@ -1,0 +1,109 @@
+
+
+body {
+    background-color: #E2E2E2!important;
+}
+
+.signUp {
+ margin-left: 670px;
+ margin-right:608px;
+
+}
+.center {
+    text-align: center;
+    background:firebrick;
+    height: 510px;
+    margin-top: 96px;
+    border-radius:15px;
+}
+.color {
+    color: #fff;
+}
+.submit {
+   background: black;
+    color: #fff;
+}
+.submit:hover {
+     background: #fff;
+    color: #000;
+}
+.option:checked {
+        border: 3px solid #008e90;
+}
+.signin {
+    height: 213px !important;
+}
+
+.has-error{
+    color:white!important;
+
+}
+.img{
+border-radius: 10px!important;
+}
+
+.form{
+   width: 250px;
+
+
+
+
+
+    height: 560px!important;
+
+}
+.user{
+    padding-left: 5px;
+}
+.add{
+    padding-left: 5px;
+}
+
+.profile{
+    border: 1px solid #9D9D9D;
+    background-color: white!important;
+    border-radius: 15px!important;
+
+}
+/***
+User Profile Sidebar by @keenthemes
+A component of Metronic Theme - #1 Selling Bootstrap 3 Admin Theme in Themeforest: http://j.mp/metronictheme
+Licensed under MIT
+***/
+
+/* signin */
+.main{
+    width: 500px;
+    height:260px;
+    margin-top: 96px;
+    border-radius:15px;
+    background-color: white;
+    margin-left:350px;
+
+
+
+}
+#signin_back{
+    background-color: firebrick;
+    height: 55px;
+    color: white;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top:5px;
+
+}
+
+
+
+
+#email1{
+    width: 400px!important;
+}
+#password{
+    width: 400px!important;
+
+}
+#sigin_button{
+    background-color:#2ECC71!important; ;
+}
+
